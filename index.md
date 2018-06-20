@@ -1,12 +1,7 @@
-
-![foto]({{site.baseurl}}/fotaza400.png)
 ## HI Internaut, this is my Portfolio.
-My name is Pablo Sanchez (AKA "Manoloon"), Game programmer and enthusiast of learning everything about games. 
+My name is Pablo Sanchez, game programmer and enthusiast of learning everything about making games. 
 
-I start making games on Gamemaker 1.2 but then jump on UE4 , and fall in love with the whole engine, specially with Blueprints.
-
-Once I feel comfortable with Blueprints I start learning C++ code.
-My main project is Occultum , a third person shooter set in Buenos Aires, I am the programmer in the group.
+My main project is Occultum, a third person shooter set in Buenos Aires, I am the programmer in the group.
 
 I also participate in jams, generally I run solo on them.
 **This is my itch.io page:**
