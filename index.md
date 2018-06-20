@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## A collection of things that I did/and Doing on Unreal Engine 4.
 
-You can use the [editor on GitHub](https://github.com/Manoloon/Manoloon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On this website I am going to publish my portfolio as C++ & Blueprint Programmer on UE4 .
 
 ### Markdown
 
