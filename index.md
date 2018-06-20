@@ -1,6 +1,15 @@
-## A collection of things that I did/and Doing on Unreal Engine 4.
+[https://manoloon.itch.io/](https://manoloon.itch.io/ "Itch.io page")
+![foto]({{site.baseurl}}/fotaza400.png)
+## HI Internaut, this is my Portfolio.
+My name is Pablo Sanchez (AKA "Manoloon"), Game programmer and enthusiast of learning everything about games. 
 
-On this website I am going to publish my portfolio as C++ & Blueprint Programmer on UE4 .
+I start making games on Gamemaker 1.2 but then jump on UE4 , and fall in love with the whole engine, specially with Blueprints.
+
+Once I feel comfortable with Blueprints I start learning C++ code.
+My main project is Occultum , a third person shooter set in Buenos Aires, I am the programmer in the group.
+
+I also participate in jams, generally I run solo on them.
+**This is my itch.io page:**
 
 ### Markdown
 
