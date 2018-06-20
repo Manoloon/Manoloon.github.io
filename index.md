@@ -1,4 +1,4 @@
-[https://manoloon.itch.io/](https://manoloon.itch.io/ "Itch.io page")
+
 ![foto]({{site.baseurl}}/fotaza400.png)
 ## HI Internaut, this is my Portfolio.
 My name is Pablo Sanchez (AKA "Manoloon"), Game programmer and enthusiast of learning everything about games. 
@@ -10,7 +10,7 @@ My main project is Occultum , a third person shooter set in Buenos Aires, I am t
 
 I also participate in jams, generally I run solo on them.
 **This is my itch.io page:**
-
+[https://manoloon.itch.io/](https://manoloon.itch.io/ "Itch.io page")
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
