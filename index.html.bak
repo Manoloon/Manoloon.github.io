@@ -18,10 +18,9 @@
   </head>
   <body id="page-top">
     <!-- Navigation-->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav"
-      style="background-color: #3333ff;"> <a class="navbar-brand js-scroll-trigger"
-        href="#page-top"> <span class="d-block d-lg-none">Pablo Sanchez</span>
-        <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2"
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top"> <span class="d-block d-lg-none">Pablo
+          Sanchez</span> <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2"
             src="assets/img/profile.png" alt="..."></span> </a> <button class="navbar-toggler"
         type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
         aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span
@@ -43,8 +42,7 @@
         <div class="resume-section-content">
           <h1 class="mb-0">Pablo&nbsp;<span class="text-primary">Sanchez</span>
           </h1>
-          <div class="subheading mb-5"> Rosario - Argentina &nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <a href="mailto:name@email.com">pablo.r.sanchez@hotmail.com</a>
+          <div class="subheading mb-5"> Rosario - Argentina <a href="mailto:name@email.com">pablo.r.sanchez@hotmail.com</a>
           </div>
           Good day! , I'm Pablo (aka Manoloon), a passionate game developer
           focused in gameplay and game AI, following design patterns and best
